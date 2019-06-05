@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: green;
+	text-align: center
+}
+.flex{
+	display: flex;
+}
+.block{
+	background: black;
+	height: 40px;
+	width: 1910px;
+	padding-left: 10px
+}
+.block2{
+	background: blue;
+	height: 6-00px;
+	width: 1920px;
+	padding: 30px;
+	box-sizing: border-box;
+}
+.box{
+	background: red;
+	height: 40px;
+	width: 150px;
+	margin-left: 70px
+}
+.box2{
+	background: red;
+	height: 540px;
+	width: 910px;
+	text-align: center
+
+}
+.box3{
+	background: red;
+	height: 540px;
+	width: 910px;
+	margin-left: 30px;
+	text-align: center
+}
+.logo{
+	height: 40px;
+	width: 150px
+}
+.kart{
+	height: 538px;
+}
+.jpg{
+	height: 340px;
+	margin-left: 30px;
+}
